@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\obj\Debug\WcfService9.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\bin\WcfService9.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\bin\WcfService9.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\bin\WcfService9.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\obj\Debug\WcfService9.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService9\WcfService9\obj\Debug\WcfService9.pdb

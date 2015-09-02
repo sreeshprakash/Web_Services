@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\bin\WcfService5.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\bin\WcfService5.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\bin\WcfService5.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.pdb

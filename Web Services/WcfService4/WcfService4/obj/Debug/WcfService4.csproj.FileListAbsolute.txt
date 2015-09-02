@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\bin\WcfService4.dll.config
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\bin\WcfService4.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\bin\WcfService4.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\obj\Debug\WcfService4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\obj\Debug\WcfService4.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\obj\Debug\WcfService4.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfService4\WcfService4\bin\StemmersNet.dll

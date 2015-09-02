@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\bin\TryItPage.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\bin\TryItPage.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\bin\TryItPage.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\obj\Debug\TryItPage.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\obj\Debug\TryItPage.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService12\TryItPage\obj\Debug\TryItPage.pdb

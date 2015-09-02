@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\bin\Try.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\bin\Try.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\bin\Try.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\obj\Debug\Try.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Try\Try\obj\Debug\Try.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\obj\Debug\WcfService7.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\bin\WcfService7.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\bin\WcfService7.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\bin\WcfService7.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\obj\Debug\WcfService7.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\WcfService7\WcfService7\obj\Debug\WcfService7.pdb
