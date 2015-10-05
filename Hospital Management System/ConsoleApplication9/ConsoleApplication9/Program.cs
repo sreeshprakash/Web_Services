@@ -22,6 +22,7 @@ public class TransformXML
             StreamReader stream = new StreamReader("C:/Users/user/Desktop/Assignment 4/output.html");
             Console.Write("**This is result document**\n\n");
             Console.Write(stream.ReadToEnd());
+	//parsing the xml
         }
         catch (Exception e)
         {
