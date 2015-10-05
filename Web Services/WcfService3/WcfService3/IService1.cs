@@ -29,7 +29,7 @@ namespace WcfService3
     {
         bool boolValue = true;
         string stringValue = "Hello ";
-
+	//basic web service
         [DataMember]
         public bool BoolValue
         {
