@@ -111,6 +111,7 @@ namespace NumWords
             }
 
             return words;
+	//check number of words returned
 
         }
         static void Main(string[] args)
