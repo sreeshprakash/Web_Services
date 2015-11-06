@@ -30,6 +30,7 @@ namespace WcfService3
         bool boolValue = true;
         string stringValue = "Hello ";
 	//basic web service
+	//getters and setters generated
         [DataMember]
         public bool BoolValue
         {
